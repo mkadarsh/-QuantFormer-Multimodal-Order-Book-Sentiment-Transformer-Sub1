@@ -1,0 +1,6 @@
+timestamp,symbol,last_price,spread,total_bid_volume,total_ask_volume,order_book_imbalance,price_change,rolling_volatility,liquidity_score,sentiment_score,news_id,news_headline,news_timestamp,price_lag_1,price_lag_5,imbalance_lag_1,imbalance_lag_5,sentiment_lag_1,sentiment_lag_5,rolling_price_change_3,rolling_imbalance_3,rolling_volatility_3
+2024-01-01 10:04:01,DEMO,100.0,0.1,1200,1100,0.04,0.0,0.0,74.0,0.0,,,,,,,,,,0.0,0.04,0.0
+2024-01-01 10:04:02,DEMO,100.2,0.1,1300,1200,0.04,0.2,0.01,74.5,0.0,,,,100.0,,0.04,,0.0,,0.1,0.04,0.005
+2024-01-01 10:04:03,DEMO,100.15,0.09,1250,1150,0.04,-0.05,0.012,75.0,0.0,,,,100.2,,0.04,,0.0,,0.05000000000000001,0.04,0.007333333333333333
+2024-01-01 10:04:04,DEMO,100.3,0.08,1350,1250,0.04,0.15,0.013,75.5,0.0,,,,100.15,,0.04,,0.0,,0.09999999999999999,0.04,0.011666666666666667
+2024-01-01 10:04:05,DEMO,100.5,0.07,1400,1300,0.04,0.2,0.014,76.0,0.72,news-0001,Revenue beats expectations,2024-01-01 10:04:05,100.3,,0.04,,0.0,,0.09999999999999999,0.04,0.013
